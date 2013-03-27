@@ -2,5 +2,50 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/AppleJavaExtensions.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/asm-debug-all.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lwjgl_test.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lwjgl_util_applet.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lwjgl_util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lwjgl-debug.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jars/LWJGL/lzma.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Nu-3D-Project/lib/natives/LWJGL/windows"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
